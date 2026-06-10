@@ -23,8 +23,6 @@ and HuggingFace.
 
 ```
 bert-sentiment-imdb/
-├── notebooks/
-│   └── exploration.ipynb       # data exploration and token length analysis
 ├── src/
 │   ├── dataset.py              # IMDBDataset class and DataLoader factory
 │   ├── model.py                # SentimentClassifier built on bert-base-uncased
