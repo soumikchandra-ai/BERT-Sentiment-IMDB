@@ -46,7 +46,7 @@ bert-sentiment-imdb/
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/bert-sentiment-imdb.git
+git clone https://github.com/soumikchandra-ai/bert-sentiment-imdb.git
 cd bert-sentiment-imdb
 ```
 
@@ -54,7 +54,7 @@ cd bert-sentiment-imdb
 
 ```bash
 python -m venv venv
-source venv/bin/activate        # on Windows: venv\Scripts\activate
+venv\Scripts\activate        
 ```
 
 **3. Install dependencies**
