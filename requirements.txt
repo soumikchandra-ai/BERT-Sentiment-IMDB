@@ -9,3 +9,4 @@ accelerate
 streamlit
 numpy
 huggingface-hub
+pytest-cov
